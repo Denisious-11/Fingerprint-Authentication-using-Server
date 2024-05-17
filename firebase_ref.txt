@@ -1,0 +1,4 @@
+
+firebase tutorial (create key json file)
+-----------------
+https://www.analyticsvidhya.com/blog/2022/07/introduction-to-google-firebase-firestore-using-python/

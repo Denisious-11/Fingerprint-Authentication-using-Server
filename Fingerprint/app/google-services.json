@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "675227066731",
+    "project_id": "fingerprint-3b17d",
+    "storage_bucket": "fingerprint-3b17d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675227066731:android:27a5e473d12ce548376c2e",
+        "android_client_info": {
+          "package_name": "com.example.fingerprint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675227066731-h502l9hs7moagftksj281df6veac61do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWa6JUS1dO6d1InhhhXT8MkXq0AVP0uZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675227066731-h502l9hs7moagftksj281df6veac61do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
